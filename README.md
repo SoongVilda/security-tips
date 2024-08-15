@@ -3,4 +3,4 @@ Tento repozitář obsahuje souhrn postřehů z oblasti osobní bezpečnosti na i
 
 ## Osobní bezpečnost
 Rady, jak uchovat své online účty v bezpečí na internetu a nekompromitovat je nebo nepřijít o přístup.
-[Založení účtu](zalozeni-uctu)
+- [Založení účtu](zalozeni-uctu)
